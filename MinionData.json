@@ -1,0 +1,4097 @@
+{
+  "Cobblestone_1": {
+    "product": "Cobblestone",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 14,
+    "selfUpgrade_hour": 1.2
+  },
+  "Cobblestone_2": {
+    "product": "Cobblestone",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 14,
+    "selfUpgrade_hour": 2.5
+  },
+  "Cobblestone_3": {
+    "product": "Cobblestone",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 12,
+    "selfUpgrade_hour": 3.4
+  },
+  "Cobblestone_4": {
+    "product": "Cobblestone",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 12,
+    "selfUpgrade_hour": 8.5
+  },
+  "Cobblestone_5": {
+    "product": "Cobblestone",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 10,
+    "selfUpgrade_hour": 14.2
+  },
+  "Cobblestone_6": {
+    "product": "Cobblestone",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 10,
+    "selfUpgrade_hour": 28.4
+  },
+  "Cobblestone_7": {
+    "product": "Cobblestone",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 9,
+    "selfUpgrade_hour": 51.2
+  },
+  "Cobblestone_8": {
+    "product": "Cobblestone",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 9,
+    "selfUpgrade_hour": 102.4
+  },
+  "Cobblestone_9": {
+    "product": "Cobblestone",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 8,
+    "selfUpgrade_hour": 182
+  },
+  "Cobblestone_10": {
+    "product": "Cobblestone",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 8,
+    "selfUpgrade_hour": 364.1
+  },
+  "Cobblestone_11": {
+    "product": "Cobblestone",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 7,
+    "selfUpgrade_hour": ""
+  },
+  "Obsidian_1": {
+    "product": "Obsidian",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 45,
+    "selfUpgrade_hour": 4
+  },
+  "Obsidian_2": {
+    "product": "Obsidian",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Obsidian_3": {
+    "product": "Obsidian",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 42,
+    "selfUpgrade_hour": 11.9
+  },
+  "Obsidian_4": {
+    "product": "Obsidian",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Obsidian_5": {
+    "product": "Obsidian",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 39,
+    "selfUpgrade_hour": 55.5
+  },
+  "Obsidian_6": {
+    "product": "Obsidian",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 39,
+    "selfUpgrade_hour": 110.9
+  },
+  "Obsidian_7": {
+    "product": "Obsidian",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 35,
+    "selfUpgrade_hour": 199.1
+  },
+  "Obsidian_8": {
+    "product": "Obsidian",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 35,
+    "selfUpgrade_hour": 398.2
+  },
+  "Obsidian_9": {
+    "product": "Obsidian",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 30,
+    "selfUpgrade_hour": 682.7
+  },
+  "Obsidian_10": {
+    "product": "Obsidian",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 30,
+    "selfUpgrade_hour": "1,365.30"
+  },
+  "Obsidian_11": {
+    "product": "Obsidian",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 24,
+    "selfUpgrade_hour": ""
+  },
+  "Glowstone_1": {
+    "product": "Glowstone",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 25,
+    "selfUpgrade_hour": 1.2
+  },
+  "Glowstone_2": {
+    "product": "Glowstone",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 25,
+    "selfUpgrade_hour": 2.4
+  },
+  "Glowstone_3": {
+    "product": "Glowstone",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 23,
+    "selfUpgrade_hour": 5.5
+  },
+  "Glowstone_4": {
+    "product": "Glowstone",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 23,
+    "selfUpgrade_hour": 16.4
+  },
+  "Glowstone_5": {
+    "product": "Glowstone",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 21,
+    "selfUpgrade_hour": 39.8
+  },
+  "Glowstone_6": {
+    "product": "Glowstone",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 21,
+    "selfUpgrade_hour": 79.6
+  },
+  "Glowstone_7": {
+    "product": "Glowstone",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 19,
+    "selfUpgrade_hour": 144.1
+  },
+  "Glowstone_8": {
+    "product": "Glowstone",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 19,
+    "selfUpgrade_hour": 288.2
+  },
+  "Glowstone_9": {
+    "product": "Glowstone",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "Glowstone_10": {
+    "product": "Glowstone",
+    "tier": 10,
+    "tier_cost": "245,760",
+    "delay_second": 16,
+    "selfUpgrade_hour": "1,456.40"
+  },
+  "Glowstone_11": {
+    "product": "Glowstone",
+    "tier": 11,
+    "tier_cost": "491,520",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Gravel_1": {
+    "product": "Gravel",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Gravel_2": {
+    "product": "Gravel",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Gravel_3": {
+    "product": "Gravel",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Gravel_4": {
+    "product": "Gravel",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Gravel_5": {
+    "product": "Gravel",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "Gravel_6": {
+    "product": "Gravel",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "Gravel_7": {
+    "product": "Gravel",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 19,
+    "selfUpgrade_hour": 108.1
+  },
+  "Gravel_8": {
+    "product": "Gravel",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 19,
+    "selfUpgrade_hour": 216.2
+  },
+  "Gravel_9": {
+    "product": "Gravel",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 16,
+    "selfUpgrade_hour": 364.1
+  },
+  "Gravel_10": {
+    "product": "Gravel",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "Gravel_11": {
+    "product": "Gravel",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Sand_1": {
+    "product": "Sand",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Sand_2": {
+    "product": "Sand",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Sand_3": {
+    "product": "Sand",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Sand_4": {
+    "product": "Sand",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Sand_5": {
+    "product": "Sand",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "Sand_6": {
+    "product": "Sand",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "Sand_7": {
+    "product": "Sand",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 19,
+    "selfUpgrade_hour": 108.1
+  },
+  "Sand_8": {
+    "product": "Sand",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 19,
+    "selfUpgrade_hour": 216.2
+  },
+  "Sand_9": {
+    "product": "Sand",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 16,
+    "selfUpgrade_hour": 364.1
+  },
+  "Sand_10": {
+    "product": "Sand",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "Sand_11": {
+    "product": "Sand",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Clay_1": {
+    "product": "Clay",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 32,
+    "selfUpgrade_hour": 0.7
+  },
+  "Clay_2": {
+    "product": "Clay",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 32,
+    "selfUpgrade_hour": 1.4
+  },
+  "Clay_3": {
+    "product": "Clay",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 30,
+    "selfUpgrade_hour": 2.1
+  },
+  "Clay_4": {
+    "product": "Clay",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 30,
+    "selfUpgrade_hour": 5.3
+  },
+  "Clay_5": {
+    "product": "Clay",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 27.5,
+    "selfUpgrade_hour": 9.8
+  },
+  "Clay_6": {
+    "product": "Clay",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 27.5,
+    "selfUpgrade_hour": 19.6
+  },
+  "Clay_7": {
+    "product": "Clay",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 24,
+    "selfUpgrade_hour": 34.1
+  },
+  "Clay_8": {
+    "product": "Clay",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 24,
+    "selfUpgrade_hour": 68.3
+  },
+  "Clay_9": {
+    "product": "Clay",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 113.8
+  },
+  "Clay_10": {
+    "product": "Clay",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Clay_11": {
+    "product": "Clay",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": ""
+  },
+  "Ice_1": {
+    "product": "Ice",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 14,
+    "selfUpgrade_hour": 1.2
+  },
+  "Ice_2": {
+    "product": "Ice",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 14,
+    "selfUpgrade_hour": 2.5
+  },
+  "Ice_3": {
+    "product": "Ice",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 12,
+    "selfUpgrade_hour": 3.4
+  },
+  "Ice_4": {
+    "product": "Ice",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 12,
+    "selfUpgrade_hour": 7.7
+  },
+  "Ice_5": {
+    "product": "Ice",
+    "tier": 5,
+    "tier_cost": "1,152",
+    "delay_second": 10,
+    "selfUpgrade_hour": 12.8
+  },
+  "Ice_6": {
+    "product": "Ice",
+    "tier": 6,
+    "tier_cost": "2,304",
+    "delay_second": 10,
+    "selfUpgrade_hour": 25.6
+  },
+  "Ice_7": {
+    "product": "Ice",
+    "tier": 7,
+    "tier_cost": "4,608",
+    "delay_second": 9,
+    "selfUpgrade_hour": 51.2
+  },
+  "Ice_8": {
+    "product": "Ice",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 9,
+    "selfUpgrade_hour": 102.4
+  },
+  "Ice_9": {
+    "product": "Ice",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 8,
+    "selfUpgrade_hour": 182
+  },
+  "Ice_10": {
+    "product": "Ice",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 8,
+    "selfUpgrade_hour": 364.1
+  },
+  "Ice_11": {
+    "product": "Ice",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 7,
+    "selfUpgrade_hour": ""
+  },
+  "Snow_1": {
+    "product": "Snow",
+    "tier": 1,
+    "tier_cost": "A",
+    "delay_second": 13,
+    "selfUpgrade_hour": 0.2
+  },
+  "Snow_2": {
+    "product": "Snow",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 13,
+    "selfUpgrade_hour": 0.5
+  },
+  "Snow_3": {
+    "product": "Snow",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 12,
+    "selfUpgrade_hour": 0.9
+  },
+  "Snow_4": {
+    "product": "Snow",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 12,
+    "selfUpgrade_hour": 1.7
+  },
+  "Snow_5": {
+    "product": "Snow",
+    "tier": 5,
+    "tier_cost": "1,024",
+    "delay_second": 11,
+    "selfUpgrade_hour": 3.1
+  },
+  "Snow_6": {
+    "product": "Snow",
+    "tier": 6,
+    "tier_cost": "2,048",
+    "delay_second": 11,
+    "selfUpgrade_hour": 7.8
+  },
+  "Snow_7": {
+    "product": "Snow",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 9.5,
+    "selfUpgrade_hour": 13.5
+  },
+  "Snow_8": {
+    "product": "Snow",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 9.5,
+    "selfUpgrade_hour": 27
+  },
+  "Snow_9": {
+    "product": "Snow",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 8,
+    "selfUpgrade_hour": 45.5
+  },
+  "Snow_10": {
+    "product": "Snow",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 8,
+    "selfUpgrade_hour": 91
+  },
+  "Snow_11": {
+    "product": "Snow",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 6.5,
+    "selfUpgrade_hour": ""
+  },
+  "Coal_1": {
+    "product": "Coal",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 15,
+    "selfUpgrade_hour": 1.3
+  },
+  "Coal_2": {
+    "product": "Coal",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 15,
+    "selfUpgrade_hour": 2.7
+  },
+  "Coal_3": {
+    "product": "Coal",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 13,
+    "selfUpgrade_hour": 3.7
+  },
+  "Coal_4": {
+    "product": "Coal",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 13,
+    "selfUpgrade_hour": 9.2
+  },
+  "Coal_5": {
+    "product": "Coal",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 12,
+    "selfUpgrade_hour": 25.6
+  },
+  "Coal_6": {
+    "product": "Coal",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 12,
+    "selfUpgrade_hour": 68.3
+  },
+  "Coal_7": {
+    "product": "Coal",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 10,
+    "selfUpgrade_hour": 113.8
+  },
+  "Coal_8": {
+    "product": "Coal",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 10,
+    "selfUpgrade_hour": 227.6
+  },
+  "Coal_9": {
+    "product": "Coal",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 9,
+    "selfUpgrade_hour": 409.6
+  },
+  "Coal_10": {
+    "product": "Coal",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 9,
+    "selfUpgrade_hour": "1,024.00"
+  },
+  "Coal_11": {
+    "product": "Coal",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 7,
+    "selfUpgrade_hour": ""
+  },
+  "Iron_1": {
+    "product": "Iron",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 17,
+    "selfUpgrade_hour": 1.5
+  },
+  "Iron_2": {
+    "product": "Iron",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 17,
+    "selfUpgrade_hour": 3
+  },
+  "Iron_3": {
+    "product": "Iron",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 15,
+    "selfUpgrade_hour": 4.3
+  },
+  "Iron_4": {
+    "product": "Iron",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 15,
+    "selfUpgrade_hour": 10.7
+  },
+  "Iron_5": {
+    "product": "Iron",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 14,
+    "selfUpgrade_hour": 29.9
+  },
+  "Iron_6": {
+    "product": "Iron",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 14,
+    "selfUpgrade_hour": 79.6
+  },
+  "Iron_7": {
+    "product": "Iron",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 12,
+    "selfUpgrade_hour": 136.5
+  },
+  "Iron_8": {
+    "product": "Iron",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 12,
+    "selfUpgrade_hour": 273.1
+  },
+  "Iron_9": {
+    "product": "Iron",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 10,
+    "selfUpgrade_hour": 455.1
+  },
+  "Iron_10": {
+    "product": "Iron",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 10,
+    "selfUpgrade_hour": "1,137.80"
+  },
+  "Iron_11": {
+    "product": "Iron",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 8,
+    "selfUpgrade_hour": ""
+  },
+  "Gold_1": {
+    "product": "Gold",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 22,
+    "selfUpgrade_hour": 2
+  },
+  "Gold_2": {
+    "product": "Gold",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 22,
+    "selfUpgrade_hour": 3.9
+  },
+  "Gold_3": {
+    "product": "Gold",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 20,
+    "selfUpgrade_hour": 5.7
+  },
+  "Gold_4": {
+    "product": "Gold",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 20,
+    "selfUpgrade_hour": 14.2
+  },
+  "Gold_5": {
+    "product": "Gold",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 18,
+    "selfUpgrade_hour": 38.4
+  },
+  "Gold_6": {
+    "product": "Gold",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 18,
+    "selfUpgrade_hour": 102.4
+  },
+  "Gold_7": {
+    "product": "Gold",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 16,
+    "selfUpgrade_hour": 182
+  },
+  "Gold_8": {
+    "product": "Gold",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 16,
+    "selfUpgrade_hour": 364.1
+  },
+  "Gold_9": {
+    "product": "Gold",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 14,
+    "selfUpgrade_hour": 637.2
+  },
+  "Gold_10": {
+    "product": "Gold",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 14,
+    "selfUpgrade_hour": "1,592.90"
+  },
+  "Gold_11": {
+    "product": "Gold",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 11,
+    "selfUpgrade_hour": ""
+  },
+  "Diamond_1": {
+    "product": "Diamond",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 29,
+    "selfUpgrade_hour": 2.6
+  },
+  "Diamond_2": {
+    "product": "Diamond",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 29,
+    "selfUpgrade_hour": 5.2
+  },
+  "Diamond_3": {
+    "product": "Diamond",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 27,
+    "selfUpgrade_hour": 7.7
+  },
+  "Diamond_4": {
+    "product": "Diamond",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 27,
+    "selfUpgrade_hour": 19.2
+  },
+  "Diamond_5": {
+    "product": "Diamond",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 25,
+    "selfUpgrade_hour": 53.3
+  },
+  "Diamond_6": {
+    "product": "Diamond",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 25,
+    "selfUpgrade_hour": 142.2
+  },
+  "Diamond_7": {
+    "product": "Diamond",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 22,
+    "selfUpgrade_hour": 250.3
+  },
+  "Diamond_8": {
+    "product": "Diamond",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 22,
+    "selfUpgrade_hour": 500.6
+  },
+  "Diamond_9": {
+    "product": "Diamond",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 19,
+    "selfUpgrade_hour": 864.7
+  },
+  "Diamond_10": {
+    "product": "Diamond",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 19,
+    "selfUpgrade_hour": "2,161.80"
+  },
+  "Diamond_11": {
+    "product": "Diamond",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 15,
+    "selfUpgrade_hour": ""
+  },
+  "Lapis_1": {
+    "product": "Lapis",
+    "tier": 1,
+    "tier_cost": 256,
+    "delay_second": 29,
+    "selfUpgrade_hour": 1.4
+  },
+  "Lapis_2": {
+    "product": "Lapis",
+    "tier": 2,
+    "tier_cost": 512,
+    "delay_second": 29,
+    "selfUpgrade_hour": 3.4
+  },
+  "Lapis_3": {
+    "product": "Lapis",
+    "tier": 3,
+    "tier_cost": "1,280",
+    "delay_second": 27,
+    "selfUpgrade_hour": 9.6
+  },
+  "Lapis_4": {
+    "product": "Lapis",
+    "tier": 4,
+    "tier_cost": "3,840",
+    "delay_second": 27,
+    "selfUpgrade_hour": 25.6
+  },
+  "Lapis_5": {
+    "product": "Lapis",
+    "tier": 5,
+    "tier_cost": "10,240",
+    "delay_second": 25,
+    "selfUpgrade_hour": 47.4
+  },
+  "Lapis_6": {
+    "product": "Lapis",
+    "tier": 6,
+    "tier_cost": "20,480",
+    "delay_second": 25,
+    "selfUpgrade_hour": 94.8
+  },
+  "Lapis_7": {
+    "product": "Lapis",
+    "tier": 7,
+    "tier_cost": "40,960",
+    "delay_second": 23,
+    "selfUpgrade_hour": 174.5
+  },
+  "Lapis_8": {
+    "product": "Lapis",
+    "tier": 8,
+    "tier_cost": "81,920",
+    "delay_second": 23,
+    "selfUpgrade_hour": 436.1
+  },
+  "Lapis_9": {
+    "product": "Lapis",
+    "tier": 9,
+    "tier_cost": "204,800",
+    "delay_second": 21,
+    "selfUpgrade_hour": 796.4
+  },
+  "Lapis_10": {
+    "product": "Lapis",
+    "tier": 10,
+    "tier_cost": "409,600",
+    "delay_second": 21,
+    "selfUpgrade_hour": "1,592.90"
+  },
+  "Lapis_11": {
+    "product": "Lapis",
+    "tier": 11,
+    "tier_cost": "819,200",
+    "delay_second": 18,
+    "selfUpgrade_hour": ""
+  },
+  "Redstone_1": {
+    "product": "Redstone",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 29,
+    "selfUpgrade_hour": 0.9
+  },
+  "Redstone_2": {
+    "product": "Redstone",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 29,
+    "selfUpgrade_hour": 1.8
+  },
+  "Redstone_3": {
+    "product": "Redstone",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 27,
+    "selfUpgrade_hour": 4.3
+  },
+  "Redstone_4": {
+    "product": "Redstone",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 27,
+    "selfUpgrade_hour": 12.8
+  },
+  "Redstone_5": {
+    "product": "Redstone",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 25,
+    "selfUpgrade_hour": 31.6
+  },
+  "Redstone_6": {
+    "product": "Redstone",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 25,
+    "selfUpgrade_hour": 63.2
+  },
+  "Redstone_7": {
+    "product": "Redstone",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 23,
+    "selfUpgrade_hour": 116.3
+  },
+  "Redstone_8": {
+    "product": "Redstone",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 23,
+    "selfUpgrade_hour": 232.6
+  },
+  "Redstone_9": {
+    "product": "Redstone",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 21,
+    "selfUpgrade_hour": 531
+  },
+  "Redstone_10": {
+    "product": "Redstone",
+    "tier": 10,
+    "tier_cost": "204,800",
+    "delay_second": 21,
+    "selfUpgrade_hour": "1,061.90"
+  },
+  "Redstone_11": {
+    "product": "Redstone",
+    "tier": 11,
+    "tier_cost": "409,600",
+    "delay_second": 18,
+    "selfUpgrade_hour": ""
+  },
+  "Emerald_1": {
+    "product": "Emerald",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 28,
+    "selfUpgrade_hour": 2.5
+  },
+  "Emerald_2": {
+    "product": "Emerald",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 28,
+    "selfUpgrade_hour": 5
+  },
+  "Emerald_3": {
+    "product": "Emerald",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 26,
+    "selfUpgrade_hour": 7.4
+  },
+  "Emerald_4": {
+    "product": "Emerald",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 26,
+    "selfUpgrade_hour": 9
+  },
+  "Emerald_5": {
+    "product": "Emerald",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 24,
+    "selfUpgrade_hour": 51.2
+  },
+  "Emerald_6": {
+    "product": "Emerald",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 24,
+    "selfUpgrade_hour": 136.5
+  },
+  "Emerald_7": {
+    "product": "Emerald",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 21,
+    "selfUpgrade_hour": 238.9
+  },
+  "Emerald_8": {
+    "product": "Emerald",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 21,
+    "selfUpgrade_hour": 477.9
+  },
+  "Emerald_9": {
+    "product": "Emerald",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 18,
+    "selfUpgrade_hour": 819.2
+  },
+  "Emerald_10": {
+    "product": "Emerald",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 18,
+    "selfUpgrade_hour": "2,048.00"
+  },
+  "Emerald_11": {
+    "product": "Emerald",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 14,
+    "selfUpgrade_hour": ""
+  },
+  "Quartz_1": {
+    "product": "Quartz",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 22.5,
+    "selfUpgrade_hour": 2
+  },
+  "Quartz_2": {
+    "product": "Quartz",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 22.5,
+    "selfUpgrade_hour": 4
+  },
+  "Quartz_3": {
+    "product": "Quartz",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 21,
+    "selfUpgrade_hour": 6
+  },
+  "Quartz_4": {
+    "product": "Quartz",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 21,
+    "selfUpgrade_hour": 14.9
+  },
+  "Quartz_5": {
+    "product": "Quartz",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 19,
+    "selfUpgrade_hour": 40.5
+  },
+  "Quartz_6": {
+    "product": "Quartz",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 19,
+    "selfUpgrade_hour": 108.1
+  },
+  "Quartz_7": {
+    "product": "Quartz",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 17,
+    "selfUpgrade_hour": 193.4
+  },
+  "Quartz_8": {
+    "product": "Quartz",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 17,
+    "selfUpgrade_hour": 386.8
+  },
+  "Quartz_9": {
+    "product": "Quartz",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": 659.9
+  },
+  "Quartz_10": {
+    "product": "Quartz",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": "1,649.80"
+  },
+  "Quartz_11": {
+    "product": "Quartz",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 11.5,
+    "selfUpgrade_hour": ""
+  },
+  "End Stone_1": {
+    "product": "End Stone",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "End Stone_2": {
+    "product": "End Stone",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "End Stone_3": {
+    "product": "End Stone",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "End Stone_4": {
+    "product": "End Stone",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "End Stone_5": {
+    "product": "End Stone",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "End Stone_6": {
+    "product": "End Stone",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "End Stone_7": {
+    "product": "End Stone",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 19,
+    "selfUpgrade_hour": 108.1
+  },
+  "End Stone_8": {
+    "product": "End Stone",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 19,
+    "selfUpgrade_hour": 216.2
+  },
+  "End Stone_9": {
+    "product": "End Stone",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 16,
+    "selfUpgrade_hour": 364.1
+  },
+  "End Stone_10": {
+    "product": "End Stone",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "End Stone_11": {
+    "product": "End Stone",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Wheat_1": {
+    "product": "Wheat",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 15,
+    "selfUpgrade_hour": 1.3
+  },
+  "Wheat_2": {
+    "product": "Wheat",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 15,
+    "selfUpgrade_hour": 2.7
+  },
+  "Wheat_3": {
+    "product": "Wheat",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 13,
+    "selfUpgrade_hour": 3.7
+  },
+  "Wheat_4": {
+    "product": "Wheat",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 13,
+    "selfUpgrade_hour": 6.2
+  },
+  "Wheat_5": {
+    "product": "Wheat",
+    "tier": 5,
+    "tier_cost": 864,
+    "delay_second": 11,
+    "selfUpgrade_hour": 10.6
+  },
+  "Wheat_6": {
+    "product": "Wheat",
+    "tier": 6,
+    "tier_cost": "1,728",
+    "delay_second": 11,
+    "selfUpgrade_hour": 21.1
+  },
+  "Wheat_7": {
+    "product": "Wheat",
+    "tier": 7,
+    "tier_cost": "3,456",
+    "delay_second": 10,
+    "selfUpgrade_hour": 25.6
+  },
+  "Wheat_8": {
+    "product": "Wheat",
+    "tier": 8,
+    "tier_cost": "4,608",
+    "delay_second": 10,
+    "selfUpgrade_hour": 57.6
+  },
+  "Wheat_9": {
+    "product": "Wheat",
+    "tier": 9,
+    "tier_cost": "10,368",
+    "delay_second": 9,
+    "selfUpgrade_hour": 103.7
+  },
+  "Wheat_10": {
+    "product": "Wheat",
+    "tier": 10,
+    "tier_cost": "20,736",
+    "delay_second": 9,
+    "selfUpgrade_hour": 207.4
+  },
+  "Wheat_11": {
+    "product": "Wheat",
+    "tier": 11,
+    "tier_cost": "41,472",
+    "delay_second": 8,
+    "selfUpgrade_hour": ""
+  },
+  "Melon_1": {
+    "product": "Melon",
+    "tier": 1,
+    "tier_cost": 256,
+    "delay_second": 24,
+    "selfUpgrade_hour": 1.1
+  },
+  "Melon_2": {
+    "product": "Melon",
+    "tier": 2,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 2.6
+  },
+  "Melon_3": {
+    "product": "Melon",
+    "tier": 3,
+    "tier_cost": "1,152",
+    "delay_second": 22.5,
+    "selfUpgrade_hour": 4.8
+  },
+  "Melon_4": {
+    "product": "Melon",
+    "tier": 4,
+    "tier_cost": "2,304",
+    "delay_second": 22.5,
+    "selfUpgrade_hour": 9.6
+  },
+  "Melon_5": {
+    "product": "Melon",
+    "tier": 5,
+    "tier_cost": "4,608",
+    "delay_second": 21,
+    "selfUpgrade_hour": 19.9
+  },
+  "Melon_6": {
+    "product": "Melon",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 21,
+    "selfUpgrade_hour": 39.8
+  },
+  "Melon_7": {
+    "product": "Melon",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 18.5,
+    "selfUpgrade_hour": 70.2
+  },
+  "Melon_8": {
+    "product": "Melon",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 18.5,
+    "selfUpgrade_hour": 140.3
+  },
+  "Melon_9": {
+    "product": "Melon",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": 303.4
+  },
+  "Melon_10": {
+    "product": "Melon",
+    "tier": 10,
+    "tier_cost": "204,800",
+    "delay_second": 16,
+    "selfUpgrade_hour": 606.8
+  },
+  "Melon_11": {
+    "product": "Melon",
+    "tier": 11,
+    "tier_cost": "409,600",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Pumpkin_1": {
+    "product": "Pumpkin",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 32,
+    "selfUpgrade_hour": 2.8
+  },
+  "Pumpkin_2": {
+    "product": "Pumpkin",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 32,
+    "selfUpgrade_hour": 5.7
+  },
+  "Pumpkin_3": {
+    "product": "Pumpkin",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 30,
+    "selfUpgrade_hour": 8.5
+  },
+  "Pumpkin_4": {
+    "product": "Pumpkin",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 30,
+    "selfUpgrade_hour": 21.3
+  },
+  "Pumpkin_5": {
+    "product": "Pumpkin",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 27,
+    "selfUpgrade_hour": 38.4
+  },
+  "Pumpkin_6": {
+    "product": "Pumpkin",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 27,
+    "selfUpgrade_hour": 76.8
+  },
+  "Pumpkin_7": {
+    "product": "Pumpkin",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 24,
+    "selfUpgrade_hour": 136.5
+  },
+  "Pumpkin_8": {
+    "product": "Pumpkin",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 24,
+    "selfUpgrade_hour": 273.1
+  },
+  "Pumpkin_9": {
+    "product": "Pumpkin",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 455.1
+  },
+  "Pumpkin_10": {
+    "product": "Pumpkin",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 20,
+    "selfUpgrade_hour": 910.2
+  },
+  "Pumpkin_11": {
+    "product": "Pumpkin",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": ""
+  },
+  "Carrot_1": {
+    "product": "Carrot",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 20,
+    "selfUpgrade_hour": 0.9
+  },
+  "Carrot_2": {
+    "product": "Carrot",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 20,
+    "selfUpgrade_hour": 1.9
+  },
+  "Carrot_3": {
+    "product": "Carrot",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 18,
+    "selfUpgrade_hour": 4.3
+  },
+  "Carrot_4": {
+    "product": "Carrot",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 18,
+    "selfUpgrade_hour": 12.8
+  },
+  "Carrot_5": {
+    "product": "Carrot",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 16,
+    "selfUpgrade_hour": 30.3
+  },
+  "Carrot_6": {
+    "product": "Carrot",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 16,
+    "selfUpgrade_hour": 60.7
+  },
+  "Carrot_7": {
+    "product": "Carrot",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 14,
+    "selfUpgrade_hour": 106.2
+  },
+  "Carrot_8": {
+    "product": "Carrot",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 14,
+    "selfUpgrade_hour": 212.4
+  },
+  "Carrot_9": {
+    "product": "Carrot",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 12,
+    "selfUpgrade_hour": 364.7
+  },
+  "Carrot_10": {
+    "product": "Carrot",
+    "tier": 10,
+    "tier_cost": "164,096",
+    "delay_second": 12,
+    "selfUpgrade_hour": 729.3
+  },
+  "Carrot_11": {
+    "product": "Carrot",
+    "tier": 11,
+    "tier_cost": "328,192",
+    "delay_second": 10,
+    "selfUpgrade_hour": ""
+  },
+  "Potato_1": {
+    "product": "Potato",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 20,
+    "selfUpgrade_hour": 0.9
+  },
+  "Potato_2": {
+    "product": "Potato",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 20,
+    "selfUpgrade_hour": 1.9
+  },
+  "Potato_3": {
+    "product": "Potato",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 18,
+    "selfUpgrade_hour": 4.3
+  },
+  "Potato_4": {
+    "product": "Potato",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 18,
+    "selfUpgrade_hour": 12.8
+  },
+  "Potato_5": {
+    "product": "Potato",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 16,
+    "selfUpgrade_hour": 30.3
+  },
+  "Potato_6": {
+    "product": "Potato",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 16,
+    "selfUpgrade_hour": 60.7
+  },
+  "Potato_7": {
+    "product": "Potato",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 14,
+    "selfUpgrade_hour": 106.2
+  },
+  "Potato_8": {
+    "product": "Potato",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 14,
+    "selfUpgrade_hour": 212.4
+  },
+  "Potato_9": {
+    "product": "Potato",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 12,
+    "selfUpgrade_hour": 455.1
+  },
+  "Potato_10": {
+    "product": "Potato",
+    "tier": 10,
+    "tier_cost": "204,800",
+    "delay_second": 12,
+    "selfUpgrade_hour": 910.2
+  },
+  "Potato_11": {
+    "product": "Potato",
+    "tier": 11,
+    "tier_cost": "409,600",
+    "delay_second": 10,
+    "selfUpgrade_hour": ""
+  },
+  "Mushroom_1": {
+    "product": "Mushroom",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 30,
+    "selfUpgrade_hour": 2.7
+  },
+  "Mushroom_2": {
+    "product": "Mushroom",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 30,
+    "selfUpgrade_hour": 5.3
+  },
+  "Mushroom_3": {
+    "product": "Mushroom",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 28,
+    "selfUpgrade_hour": 8
+  },
+  "Mushroom_4": {
+    "product": "Mushroom",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 28,
+    "selfUpgrade_hour": 19.9
+  },
+  "Mushroom_5": {
+    "product": "Mushroom",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 26,
+    "selfUpgrade_hour": 37
+  },
+  "Mushroom_6": {
+    "product": "Mushroom",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 26,
+    "selfUpgrade_hour": 74
+  },
+  "Mushroom_7": {
+    "product": "Mushroom",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 23,
+    "selfUpgrade_hour": 130.8
+  },
+  "Mushroom_8": {
+    "product": "Mushroom",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 23,
+    "selfUpgrade_hour": 261.7
+  },
+  "Mushroom_9": {
+    "product": "Mushroom",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 455.1
+  },
+  "Mushroom_10": {
+    "product": "Mushroom",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 20,
+    "selfUpgrade_hour": 910.2
+  },
+  "Mushroom_11": {
+    "product": "Mushroom",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": ""
+  },
+  "Cactus_1": {
+    "product": "Cactus",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 27,
+    "selfUpgrade_hour": 3.8
+  },
+  "Cactus_2": {
+    "product": "Cactus",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 27,
+    "selfUpgrade_hour": 7.7
+  },
+  "Cactus_3": {
+    "product": "Cactus",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 25,
+    "selfUpgrade_hour": 17.8
+  },
+  "Cactus_4": {
+    "product": "Cactus",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 25,
+    "selfUpgrade_hour": 53.3
+  },
+  "Cactus_5": {
+    "product": "Cactus",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 23,
+    "selfUpgrade_hour": 130.8
+  },
+  "Cactus_6": {
+    "product": "Cactus",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 23,
+    "selfUpgrade_hour": 261.7
+  },
+  "Cactus_7": {
+    "product": "Cactus",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 21,
+    "selfUpgrade_hour": 477.9
+  },
+  "Cactus_8": {
+    "product": "Cactus",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 21,
+    "selfUpgrade_hour": 955.7
+  },
+  "Cactus_9": {
+    "product": "Cactus",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 18,
+    "selfUpgrade_hour": "2,048.00"
+  },
+  "Cactus_10": {
+    "product": "Cactus",
+    "tier": 10,
+    "tier_cost": "204,800",
+    "delay_second": 18,
+    "selfUpgrade_hour": "4,096.00"
+  },
+  "Cactus_11": {
+    "product": "Cactus",
+    "tier": 11,
+    "tier_cost": "409,600",
+    "delay_second": 15,
+    "selfUpgrade_hour": ""
+  },
+  "Cocoa Beans_1": {
+    "product": "Cocoa Beans",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 27,
+    "selfUpgrade_hour": 0.8
+  },
+  "Cocoa Beans_2": {
+    "product": "Cocoa Beans",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 27,
+    "selfUpgrade_hour": 1.6
+  },
+  "Cocoa Beans_3": {
+    "product": "Cocoa Beans",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 25,
+    "selfUpgrade_hour": 2.4
+  },
+  "Cocoa Beans_4": {
+    "product": "Cocoa Beans",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 25,
+    "selfUpgrade_hour": 5.9
+  },
+  "Cocoa Beans_5": {
+    "product": "Cocoa Beans",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 23,
+    "selfUpgrade_hour": 16.4
+  },
+  "Cocoa Beans_6": {
+    "product": "Cocoa Beans",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 23,
+    "selfUpgrade_hour": 43.6
+  },
+  "Cocoa Beans_7": {
+    "product": "Cocoa Beans",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 21,
+    "selfUpgrade_hour": 79.6
+  },
+  "Cocoa Beans_8": {
+    "product": "Cocoa Beans",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 21,
+    "selfUpgrade_hour": 159.3
+  },
+  "Cocoa Beans_9": {
+    "product": "Cocoa Beans",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 18,
+    "selfUpgrade_hour": 273.1
+  },
+  "Cocoa Beans_10": {
+    "product": "Cocoa Beans",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 18,
+    "selfUpgrade_hour": 546.1
+  },
+  "Cocoa Beans_11": {
+    "product": "Cocoa Beans",
+    "tier": 11,
+    "tier_cost": "163,840",
+    "delay_second": 15,
+    "selfUpgrade_hour": ""
+  },
+  "Sugar Cane_1": {
+    "product": "Sugar Cane",
+    "tier": 1,
+    "tier_cost": 128,
+    "delay_second": 22,
+    "selfUpgrade_hour": 3.1
+  },
+  "Sugar Cane_2": {
+    "product": "Sugar Cane",
+    "tier": 2,
+    "tier_cost": 256,
+    "delay_second": 22,
+    "selfUpgrade_hour": 6.3
+  },
+  "Sugar Cane_3": {
+    "product": "Sugar Cane",
+    "tier": 3,
+    "tier_cost": 512,
+    "delay_second": 20,
+    "selfUpgrade_hour": 14.2
+  },
+  "Sugar Cane_4": {
+    "product": "Sugar Cane",
+    "tier": 4,
+    "tier_cost": "1,280",
+    "delay_second": 20,
+    "selfUpgrade_hour": 42.7
+  },
+  "Sugar Cane_5": {
+    "product": "Sugar Cane",
+    "tier": 5,
+    "tier_cost": "3,840",
+    "delay_second": 18,
+    "selfUpgrade_hour": 102.4
+  },
+  "Sugar Cane_6": {
+    "product": "Sugar Cane",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 18,
+    "selfUpgrade_hour": 204.8
+  },
+  "Sugar Cane_7": {
+    "product": "Sugar Cane",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 16,
+    "selfUpgrade_hour": 364.1
+  },
+  "Sugar Cane_8": {
+    "product": "Sugar Cane",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "Sugar Cane_9": {
+    "product": "Sugar Cane",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": "1,649.80"
+  },
+  "Sugar Cane_10": {
+    "product": "Sugar Cane",
+    "tier": 10,
+    "tier_cost": "204,800",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": "3,299.60"
+  },
+  "Sugar Cane_11": {
+    "product": "Sugar Cane",
+    "tier": 11,
+    "tier_cost": "409,600",
+    "delay_second": 12,
+    "selfUpgrade_hour": ""
+  },
+  "Nether Wart_1": {
+    "product": "Nether Wart",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 50,
+    "selfUpgrade_hour": 1.5
+  },
+  "Nether Wart_2": {
+    "product": "Nether Wart",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 50,
+    "selfUpgrade_hour": 3
+  },
+  "Nether Wart_3": {
+    "product": "Nether Wart",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 47,
+    "selfUpgrade_hour": 4.5
+  },
+  "Nether Wart_4": {
+    "product": "Nether Wart",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 47,
+    "selfUpgrade_hour": 11.1
+  },
+  "Nether Wart_5": {
+    "product": "Nether Wart",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 44,
+    "selfUpgrade_hour": 20.9
+  },
+  "Nether Wart_6": {
+    "product": "Nether Wart",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 44,
+    "selfUpgrade_hour": 41.7
+  },
+  "Nether Wart_7": {
+    "product": "Nether Wart",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 41,
+    "selfUpgrade_hour": 77.7
+  },
+  "Nether Wart_8": {
+    "product": "Nether Wart",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 41,
+    "selfUpgrade_hour": 155.5
+  },
+  "Nether Wart_9": {
+    "product": "Nether Wart",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 38,
+    "selfUpgrade_hour": 288.2
+  },
+  "Nether Wart_10": {
+    "product": "Nether Wart",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 38,
+    "selfUpgrade_hour": 576.5
+  },
+  "Nether Wart_11": {
+    "product": "Nether Wart",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 32,
+    "selfUpgrade_hour": ""
+  },
+  "Flower_1": {
+    "product": "Flower",
+    "tier": 1,
+    "tier_cost": "A",
+    "delay_second": 30,
+    "selfUpgrade_hour": 8.1
+  },
+  "Flower_2": {
+    "product": "Flower",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 29,
+    "selfUpgrade_hour": 15.6
+  },
+  "Flower_3": {
+    "product": "Flower",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 28,
+    "selfUpgrade_hour": 24.1
+  },
+  "Flower_4": {
+    "product": "Flower",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 27,
+    "selfUpgrade_hour": 58.2
+  },
+  "Flower_5": {
+    "product": "Flower",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 26,
+    "selfUpgrade_hour": 168.1
+  },
+  "Flower_6": {
+    "product": "Flower",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 25,
+    "selfUpgrade_hour": 431
+  },
+  "Flower_7": {
+    "product": "Flower",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 24,
+    "selfUpgrade_hour": 827.5
+  },
+  "Flower_8": {
+    "product": "Flower",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 23,
+    "selfUpgrade_hour": "1,586.00"
+  },
+  "Flower_9": {
+    "product": "Flower",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 22,
+    "selfUpgrade_hour": "3,034.10"
+  },
+  "Flower_10": {
+    "product": "Flower",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 21,
+    "selfUpgrade_hour": 162.9
+  },
+  "Flower_11": {
+    "product": "Flower",
+    "tier": 11,
+    "tier_cost": "4,608",
+    "delay_second": 20,
+    "selfUpgrade_hour": ""
+  },
+  "Fish_1": {
+    "product": "Fish",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 78,
+    "selfUpgrade_hour": 5.5
+  },
+  "Fish_2": {
+    "product": "Fish",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 75,
+    "selfUpgrade_hour": 10.7
+  },
+  "Fish_3": {
+    "product": "Fish",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 72,
+    "selfUpgrade_hour": 20.5
+  },
+  "Fish_4": {
+    "product": "Fish",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 72,
+    "selfUpgrade_hour": 51.2
+  },
+  "Fish_5": {
+    "product": "Fish",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 68,
+    "selfUpgrade_hour": 145.1
+  },
+  "Fish_6": {
+    "product": "Fish",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 68,
+    "selfUpgrade_hour": 386.8
+  },
+  "Fish_7": {
+    "product": "Fish",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 62.5,
+    "selfUpgrade_hour": 711.1
+  },
+  "Fish_8": {
+    "product": "Fish",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 62.5,
+    "selfUpgrade_hour": "1,422.20"
+  },
+  "Fish_9": {
+    "product": "Fish",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 53,
+    "selfUpgrade_hour": "2,412.10"
+  },
+  "Fish_10": {
+    "product": "Fish",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 53,
+    "selfUpgrade_hour": "6,030.20"
+  },
+  "Fish_11": {
+    "product": "Fish",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 35,
+    "selfUpgrade_hour": ""
+  },
+  "Zombie_1": {
+    "product": "Zombie",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Zombie_2": {
+    "product": "Zombie",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Zombie_3": {
+    "product": "Zombie",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Zombie_4": {
+    "product": "Zombie",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Zombie_5": {
+    "product": "Zombie",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "Zombie_6": {
+    "product": "Zombie",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "Zombie_7": {
+    "product": "Zombie",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 20,
+    "selfUpgrade_hour": 113.8
+  },
+  "Zombie_8": {
+    "product": "Zombie",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Zombie_9": {
+    "product": "Zombie",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 17,
+    "selfUpgrade_hour": 386.8
+  },
+  "Zombie_10": {
+    "product": "Zombie",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 17,
+    "selfUpgrade_hour": 773.7
+  },
+  "Zombie_11": {
+    "product": "Zombie",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_1": {
+    "product": "Revenant",
+    "tier": 1,
+    "tier_cost": 70,
+    "delay_second": 29,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_2": {
+    "product": "Revenant",
+    "tier": 2,
+    "tier_cost": 140,
+    "delay_second": 29,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_3": {
+    "product": "Revenant",
+    "tier": 3,
+    "tier_cost": 280,
+    "delay_second": 26,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_4": {
+    "product": "Revenant",
+    "tier": 4,
+    "tier_cost": 448,
+    "delay_second": 26,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_5": {
+    "product": "Revenant",
+    "tier": 5,
+    "tier_cost": 896,
+    "delay_second": 23,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_6": {
+    "product": "Revenant",
+    "tier": 6,
+    "tier_cost": "1,792",
+    "delay_second": 23,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_7": {
+    "product": "Revenant",
+    "tier": 7,
+    "tier_cost": "3,584",
+    "delay_second": 19,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_8": {
+    "product": "Revenant",
+    "tier": 8,
+    "tier_cost": "7,168",
+    "delay_second": 19,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_9": {
+    "product": "Revenant",
+    "tier": 9,
+    "tier_cost": "14,336",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_10": {
+    "product": "Revenant",
+    "tier": 10,
+    "tier_cost": "28,672",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": ""
+  },
+  "Revenant_11": {
+    "product": "Revenant",
+    "tier": 11,
+    "tier_cost": "57,344",
+    "delay_second": 10,
+    "selfUpgrade_hour": ""
+  },
+  "Skeleton_1": {
+    "product": "Skeleton",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Skeleton_2": {
+    "product": "Skeleton",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Skeleton_3": {
+    "product": "Skeleton",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Skeleton_4": {
+    "product": "Skeleton",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Skeleton_5": {
+    "product": "Skeleton",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "Skeleton_6": {
+    "product": "Skeleton",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "Skeleton_7": {
+    "product": "Skeleton",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 20,
+    "selfUpgrade_hour": 113.8
+  },
+  "Skeleton_8": {
+    "product": "Skeleton",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Skeleton_9": {
+    "product": "Skeleton",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 17,
+    "selfUpgrade_hour": 386.8
+  },
+  "Skeleton_10": {
+    "product": "Skeleton",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 17,
+    "selfUpgrade_hour": 773.7
+  },
+  "Skeleton_11": {
+    "product": "Skeleton",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Creeper_1": {
+    "product": "Creeper",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 27,
+    "selfUpgrade_hour": 2.4
+  },
+  "Creeper_2": {
+    "product": "Creeper",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 27,
+    "selfUpgrade_hour": 4.8
+  },
+  "Creeper_3": {
+    "product": "Creeper",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 25,
+    "selfUpgrade_hour": 7.1
+  },
+  "Creeper_4": {
+    "product": "Creeper",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 25,
+    "selfUpgrade_hour": 17.8
+  },
+  "Creeper_5": {
+    "product": "Creeper",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 23,
+    "selfUpgrade_hour": 49.1
+  },
+  "Creeper_6": {
+    "product": "Creeper",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 23,
+    "selfUpgrade_hour": 130.8
+  },
+  "Creeper_7": {
+    "product": "Creeper",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 21,
+    "selfUpgrade_hour": 238.9
+  },
+  "Creeper_8": {
+    "product": "Creeper",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 21,
+    "selfUpgrade_hour": 477.9
+  },
+  "Creeper_9": {
+    "product": "Creeper",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 18,
+    "selfUpgrade_hour": 819.2
+  },
+  "Creeper_10": {
+    "product": "Creeper",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 18,
+    "selfUpgrade_hour": "1,638.40"
+  },
+  "Creeper_11": {
+    "product": "Creeper",
+    "tier": 11,
+    "tier_cost": "163,840",
+    "delay_second": 14,
+    "selfUpgrade_hour": ""
+  },
+  "Spider_1": {
+    "product": "Spider",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Spider_2": {
+    "product": "Spider",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Spider_3": {
+    "product": "Spider",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Spider_4": {
+    "product": "Spider",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 20.5
+  },
+  "Spider_5": {
+    "product": "Spider",
+    "tier": 5,
+    "tier_cost": "1,536",
+    "delay_second": 22,
+    "selfUpgrade_hour": 37.5
+  },
+  "Spider_6": {
+    "product": "Spider",
+    "tier": 6,
+    "tier_cost": "3,072",
+    "delay_second": 22,
+    "selfUpgrade_hour": 75.1
+  },
+  "Spider_7": {
+    "product": "Spider",
+    "tier": 7,
+    "tier_cost": "6,144",
+    "delay_second": 20,
+    "selfUpgrade_hour": 136.5
+  },
+  "Spider_8": {
+    "product": "Spider",
+    "tier": 8,
+    "tier_cost": "12,288",
+    "delay_second": 20,
+    "selfUpgrade_hour": 273.1
+  },
+  "Spider_9": {
+    "product": "Spider",
+    "tier": 9,
+    "tier_cost": "24,576",
+    "delay_second": 17,
+    "selfUpgrade_hour": 464.2
+  },
+  "Spider_10": {
+    "product": "Spider",
+    "tier": 10,
+    "tier_cost": "49,152",
+    "delay_second": 17,
+    "selfUpgrade_hour": 928.4
+  },
+  "Spider_11": {
+    "product": "Spider",
+    "tier": 11,
+    "tier_cost": "98,304",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_1": {
+    "product": "Tarantula",
+    "tier": 1,
+    "tier_cost": 70,
+    "delay_second": 29,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_2": {
+    "product": "Tarantula",
+    "tier": 2,
+    "tier_cost": 140,
+    "delay_second": 29,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_3": {
+    "product": "Tarantula",
+    "tier": 3,
+    "tier_cost": 280,
+    "delay_second": 26,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_4": {
+    "product": "Tarantula",
+    "tier": 4,
+    "tier_cost": 448,
+    "delay_second": 26,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_5": {
+    "product": "Tarantula",
+    "tier": 5,
+    "tier_cost": 896,
+    "delay_second": 23,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_6": {
+    "product": "Tarantula",
+    "tier": 6,
+    "tier_cost": "1,792",
+    "delay_second": 23,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_7": {
+    "product": "Tarantula",
+    "tier": 7,
+    "tier_cost": "3,584",
+    "delay_second": 19,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_8": {
+    "product": "Tarantula",
+    "tier": 8,
+    "tier_cost": "7,168",
+    "delay_second": 19,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_9": {
+    "product": "Tarantula",
+    "tier": 9,
+    "tier_cost": "14,336",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_10": {
+    "product": "Tarantula",
+    "tier": 10,
+    "tier_cost": "28,672",
+    "delay_second": 14.5,
+    "selfUpgrade_hour": ""
+  },
+  "Tarantula_11": {
+    "product": "Tarantula",
+    "tier": 11,
+    "tier_cost": "57,344",
+    "delay_second": 10,
+    "selfUpgrade_hour": ""
+  },
+  "Cave Spider_1": {
+    "product": "Cave Spider",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.3
+  },
+  "Cave Spider_2": {
+    "product": "Cave Spider",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 4.6
+  },
+  "Cave Spider_3": {
+    "product": "Cave Spider",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Cave Spider_4": {
+    "product": "Cave Spider",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Cave Spider_5": {
+    "product": "Cave Spider",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 46.9
+  },
+  "Cave Spider_6": {
+    "product": "Cave Spider",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 22,
+    "selfUpgrade_hour": 125.2
+  },
+  "Cave Spider_7": {
+    "product": "Cave Spider",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Cave Spider_8": {
+    "product": "Cave Spider",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 455.1
+  },
+  "Cave Spider_9": {
+    "product": "Cave Spider",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 17,
+    "selfUpgrade_hour": 773.7
+  },
+  "Cave Spider_10": {
+    "product": "Cave Spider",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 17,
+    "selfUpgrade_hour": "1,547.40"
+  },
+  "Cave Spider_11": {
+    "product": "Cave Spider",
+    "tier": 11,
+    "tier_cost": "163,840",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Blaze_1": {
+    "product": "Blaze",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 33,
+    "selfUpgrade_hour": 2.9
+  },
+  "Blaze_2": {
+    "product": "Blaze",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 33,
+    "selfUpgrade_hour": 5.9
+  },
+  "Blaze_3": {
+    "product": "Blaze",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 31,
+    "selfUpgrade_hour": 8.8
+  },
+  "Blaze_4": {
+    "product": "Blaze",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 31,
+    "selfUpgrade_hour": 22
+  },
+  "Blaze_5": {
+    "product": "Blaze",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 28.5,
+    "selfUpgrade_hour": 60.8
+  },
+  "Blaze_6": {
+    "product": "Blaze",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 28.5,
+    "selfUpgrade_hour": 162.1
+  },
+  "Blaze_7": {
+    "product": "Blaze",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 25,
+    "selfUpgrade_hour": 284.4
+  },
+  "Blaze_8": {
+    "product": "Blaze",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 25,
+    "selfUpgrade_hour": 568.9
+  },
+  "Blaze_9": {
+    "product": "Blaze",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 21,
+    "selfUpgrade_hour": 955.7
+  },
+  "Blaze_10": {
+    "product": "Blaze",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 21,
+    "selfUpgrade_hour": "2,389.30"
+  },
+  "Blaze_11": {
+    "product": "Blaze",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 16.5,
+    "selfUpgrade_hour": ""
+  },
+  "Magma Cube_1": {
+    "product": "Magma Cube",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 32,
+    "selfUpgrade_hour": 1.6
+  },
+  "Magma Cube_2": {
+    "product": "Magma Cube",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 32,
+    "selfUpgrade_hour": 3.2
+  },
+  "Magma Cube_3": {
+    "product": "Magma Cube",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 30,
+    "selfUpgrade_hour": 4.7
+  },
+  "Magma Cube_4": {
+    "product": "Magma Cube",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 30,
+    "selfUpgrade_hour": 11.9
+  },
+  "Magma Cube_5": {
+    "product": "Magma Cube",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 28,
+    "selfUpgrade_hour": 22.1
+  },
+  "Magma Cube_6": {
+    "product": "Magma Cube",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 28,
+    "selfUpgrade_hour": 44.2
+  },
+  "Magma Cube_7": {
+    "product": "Magma Cube",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 25,
+    "selfUpgrade_hour": 79
+  },
+  "Magma Cube_8": {
+    "product": "Magma Cube",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 25,
+    "selfUpgrade_hour": 158
+  },
+  "Magma Cube_9": {
+    "product": "Magma Cube",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 22,
+    "selfUpgrade_hour": 278.1
+  },
+  "Magma Cube_10": {
+    "product": "Magma Cube",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 22,
+    "selfUpgrade_hour": 556.2
+  },
+  "Magma Cube_11": {
+    "product": "Magma Cube",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 18,
+    "selfUpgrade_hour": ""
+  },
+  "Enderman_1": {
+    "product": "Enderman",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 32,
+    "selfUpgrade_hour": 2.3
+  },
+  "Enderman_2": {
+    "product": "Enderman",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 32,
+    "selfUpgrade_hour": 2.8
+  },
+  "Enderman_3": {
+    "product": "Enderman",
+    "tier": 3,
+    "tier_cost": 160,
+    "delay_second": 30,
+    "selfUpgrade_hour": 8
+  },
+  "Enderman_4": {
+    "product": "Enderman",
+    "tier": 4,
+    "tier_cost": 480,
+    "delay_second": 30,
+    "selfUpgrade_hour": 16
+  },
+  "Enderman_5": {
+    "product": "Enderman",
+    "tier": 5,
+    "tier_cost": 960,
+    "delay_second": 28,
+    "selfUpgrade_hour": 29.9
+  },
+  "Enderman_6": {
+    "product": "Enderman",
+    "tier": 6,
+    "tier_cost": "1,920",
+    "delay_second": 28,
+    "selfUpgrade_hour": 39.8
+  },
+  "Enderman_7": {
+    "product": "Enderman",
+    "tier": 7,
+    "tier_cost": "2,560",
+    "delay_second": 25,
+    "selfUpgrade_hour": 106.7
+  },
+  "Enderman_8": {
+    "product": "Enderman",
+    "tier": 8,
+    "tier_cost": "7,680",
+    "delay_second": 25,
+    "selfUpgrade_hour": 213.3
+  },
+  "Enderman_9": {
+    "product": "Enderman",
+    "tier": 9,
+    "tier_cost": "15,360",
+    "delay_second": 22,
+    "selfUpgrade_hour": 375.5
+  },
+  "Enderman_10": {
+    "product": "Enderman",
+    "tier": 10,
+    "tier_cost": "30,720",
+    "delay_second": 22,
+    "selfUpgrade_hour": 750.9
+  },
+  "Enderman_11": {
+    "product": "Enderman",
+    "tier": 11,
+    "tier_cost": "61,440",
+    "delay_second": 18,
+    "selfUpgrade_hour": ""
+  },
+  "Ghast_1": {
+    "product": "Ghast",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 50,
+    "selfUpgrade_hour": 3.6
+  },
+  "Ghast_2": {
+    "product": "Ghast",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 50,
+    "selfUpgrade_hour": 7.1
+  },
+  "Ghast_3": {
+    "product": "Ghast",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 47,
+    "selfUpgrade_hour": 13.4
+  },
+  "Ghast_4": {
+    "product": "Ghast",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 47,
+    "selfUpgrade_hour": 33.4
+  },
+  "Ghast_5": {
+    "product": "Ghast",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 44,
+    "selfUpgrade_hour": 62.6
+  },
+  "Ghast_6": {
+    "product": "Ghast",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 44,
+    "selfUpgrade_hour": 97.8
+  },
+  "Ghast_7": {
+    "product": "Ghast",
+    "tier": 7,
+    "tier_cost": "4,000",
+    "delay_second": 41,
+    "selfUpgrade_hour": 182.2
+  },
+  "Ghast_8": {
+    "product": "Ghast",
+    "tier": 8,
+    "tier_cost": "8,000",
+    "delay_second": 41,
+    "selfUpgrade_hour": 364.4
+  },
+  "Ghast_9": {
+    "product": "Ghast",
+    "tier": 9,
+    "tier_cost": "16,000",
+    "delay_second": 38,
+    "selfUpgrade_hour": 675.6
+  },
+  "Ghast_10": {
+    "product": "Ghast",
+    "tier": 10,
+    "tier_cost": "32,000",
+    "delay_second": 38,
+    "selfUpgrade_hour": "1,351.10"
+  },
+  "Ghast_11": {
+    "product": "Ghast",
+    "tier": 11,
+    "tier_cost": "64,000",
+    "delay_second": 32,
+    "selfUpgrade_hour": ""
+  },
+  "Slime_1": {
+    "product": "Slime",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 26,
+    "selfUpgrade_hour": 1.3
+  },
+  "Slime_2": {
+    "product": "Slime",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 26,
+    "selfUpgrade_hour": 2.6
+  },
+  "Slime_3": {
+    "product": "Slime",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 24,
+    "selfUpgrade_hour": 3.8
+  },
+  "Slime_4": {
+    "product": "Slime",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 9.5
+  },
+  "Slime_5": {
+    "product": "Slime",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 26.1
+  },
+  "Slime_6": {
+    "product": "Slime",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 22,
+    "selfUpgrade_hour": 69.5
+  },
+  "Slime_7": {
+    "product": "Slime",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 19,
+    "selfUpgrade_hour": 120.1
+  },
+  "Slime_8": {
+    "product": "Slime",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 19,
+    "selfUpgrade_hour": 240.2
+  },
+  "Slime_9": {
+    "product": "Slime",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 404.5
+  },
+  "Slime_10": {
+    "product": "Slime",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": "1,011.40"
+  },
+  "Slime_11": {
+    "product": "Slime",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 12,
+    "selfUpgrade_hour": ""
+  },
+  "Cow_1": {
+    "product": "Cow",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 26,
+    "selfUpgrade_hour": 1.8
+  },
+  "Cow_2": {
+    "product": "Cow",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 26,
+    "selfUpgrade_hour": 3.7
+  },
+  "Cow_3": {
+    "product": "Cow",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Cow_4": {
+    "product": "Cow",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Cow_5": {
+    "product": "Cow",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 46.9
+  },
+  "Cow_6": {
+    "product": "Cow",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 22,
+    "selfUpgrade_hour": 125.2
+  },
+  "Cow_7": {
+    "product": "Cow",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Cow_8": {
+    "product": "Cow",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 455.1
+  },
+  "Cow_9": {
+    "product": "Cow",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 17,
+    "selfUpgrade_hour": 773.7
+  },
+  "Cow_10": {
+    "product": "Cow",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 17,
+    "selfUpgrade_hour": "1,392.60"
+  },
+  "Cow_11": {
+    "product": "Cow",
+    "tier": 11,
+    "tier_cost": "147,456",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Pig_1": {
+    "product": "Pig",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 26,
+    "selfUpgrade_hour": 1.8
+  },
+  "Pig_2": {
+    "product": "Pig",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 26,
+    "selfUpgrade_hour": 3.7
+  },
+  "Pig_3": {
+    "product": "Pig",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Pig_4": {
+    "product": "Pig",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Pig_5": {
+    "product": "Pig",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 46.9
+  },
+  "Pig_6": {
+    "product": "Pig",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 22,
+    "selfUpgrade_hour": 125.2
+  },
+  "Pig_7": {
+    "product": "Pig",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Pig_8": {
+    "product": "Pig",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": 455.1
+  },
+  "Pig_9": {
+    "product": "Pig",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 17,
+    "selfUpgrade_hour": 773.7
+  },
+  "Pig_10": {
+    "product": "Pig",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 17,
+    "selfUpgrade_hour": "1,934.20"
+  },
+  "Pig_11": {
+    "product": "Pig",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Chicken_1": {
+    "product": "Chicken",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 26,
+    "selfUpgrade_hour": 1.8
+  },
+  "Chicken_2": {
+    "product": "Chicken",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 26,
+    "selfUpgrade_hour": 3.7
+  },
+  "Chicken_3": {
+    "product": "Chicken",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Chicken_4": {
+    "product": "Chicken",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 17.1
+  },
+  "Chicken_5": {
+    "product": "Chicken",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 22,
+    "selfUpgrade_hour": 31.3
+  },
+  "Chicken_6": {
+    "product": "Chicken",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 22,
+    "selfUpgrade_hour": 62.6
+  },
+  "Chicken_7": {
+    "product": "Chicken",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 20,
+    "selfUpgrade_hour": 113.8
+  },
+  "Chicken_8": {
+    "product": "Chicken",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 20,
+    "selfUpgrade_hour": 227.6
+  },
+  "Chicken_9": {
+    "product": "Chicken",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 18,
+    "selfUpgrade_hour": 409.6
+  },
+  "Chicken_10": {
+    "product": "Chicken",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 18,
+    "selfUpgrade_hour": 819.2
+  },
+  "Chicken_11": {
+    "product": "Chicken",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 15,
+    "selfUpgrade_hour": ""
+  },
+  "Sheep_1": {
+    "product": "Sheep",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 24,
+    "selfUpgrade_hour": 1.7
+  },
+  "Sheep_2": {
+    "product": "Sheep",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 24,
+    "selfUpgrade_hour": 3.4
+  },
+  "Sheep_3": {
+    "product": "Sheep",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 22,
+    "selfUpgrade_hour": 6.3
+  },
+  "Sheep_4": {
+    "product": "Sheep",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 22,
+    "selfUpgrade_hour": 15.6
+  },
+  "Sheep_5": {
+    "product": "Sheep",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 20,
+    "selfUpgrade_hour": 42.7
+  },
+  "Sheep_6": {
+    "product": "Sheep",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 20,
+    "selfUpgrade_hour": 113.8
+  },
+  "Sheep_7": {
+    "product": "Sheep",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 18,
+    "selfUpgrade_hour": 204.8
+  },
+  "Sheep_8": {
+    "product": "Sheep",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 18,
+    "selfUpgrade_hour": 409.6
+  },
+  "Sheep_9": {
+    "product": "Sheep",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 16,
+    "selfUpgrade_hour": 728.2
+  },
+  "Sheep_10": {
+    "product": "Sheep",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 16,
+    "selfUpgrade_hour": "1,820.40"
+  },
+  "Sheep_11": {
+    "product": "Sheep",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 12,
+    "selfUpgrade_hour": ""
+  },
+  "Rabbit_1": {
+    "product": "Rabbit",
+    "tier": 1,
+    "tier_cost": 64,
+    "delay_second": 26,
+    "selfUpgrade_hour": 1.8
+  },
+  "Rabbit_2": {
+    "product": "Rabbit",
+    "tier": 2,
+    "tier_cost": 128,
+    "delay_second": 26,
+    "selfUpgrade_hour": 3.7
+  },
+  "Rabbit_3": {
+    "product": "Rabbit",
+    "tier": 3,
+    "tier_cost": 256,
+    "delay_second": 24,
+    "selfUpgrade_hour": 6.8
+  },
+  "Rabbit_4": {
+    "product": "Rabbit",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 24,
+    "selfUpgrade_hour": 195
+  },
+  "Rabbit_5": {
+    "product": "Rabbit",
+    "tier": 5,
+    "tier_cost": "5,120",
+    "delay_second": 22,
+    "selfUpgrade_hour": 357.6
+  },
+  "Rabbit_6": {
+    "product": "Rabbit",
+    "tier": 6,
+    "tier_cost": "10,240",
+    "delay_second": 22,
+    "selfUpgrade_hour": 715.2
+  },
+  "Rabbit_7": {
+    "product": "Rabbit",
+    "tier": 7,
+    "tier_cost": "20,480",
+    "delay_second": 20,
+    "selfUpgrade_hour": "1,300.30"
+  },
+  "Rabbit_8": {
+    "product": "Rabbit",
+    "tier": 8,
+    "tier_cost": "40,960",
+    "delay_second": 20,
+    "selfUpgrade_hour": "2,600.60"
+  },
+  "Rabbit_9": {
+    "product": "Rabbit",
+    "tier": 9,
+    "tier_cost": "81,920",
+    "delay_second": 17,
+    "selfUpgrade_hour": "3,979.00"
+  },
+  "Rabbit_10": {
+    "product": "Rabbit",
+    "tier": 10,
+    "tier_cost": "147,456",
+    "delay_second": 17,
+    "selfUpgrade_hour": "7,957.90"
+  },
+  "Rabbit_11": {
+    "product": "Rabbit",
+    "tier": 11,
+    "tier_cost": "294,912",
+    "delay_second": 13,
+    "selfUpgrade_hour": ""
+  },
+  "Oak_1": {
+    "product": "Oak",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Oak_2": {
+    "product": "Oak",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Oak_3": {
+    "product": "Oak",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Oak_4": {
+    "product": "Oak",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Oak_5": {
+    "product": "Oak",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Oak_6": {
+    "product": "Oak",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Oak_7": {
+    "product": "Oak",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Oak_8": {
+    "product": "Oak",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Oak_9": {
+    "product": "Oak",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Oak_10": {
+    "product": "Oak",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Oak_11": {
+    "product": "Oak",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Spruce_1": {
+    "product": "Spruce",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Spruce_2": {
+    "product": "Spruce",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Spruce_3": {
+    "product": "Spruce",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Spruce_4": {
+    "product": "Spruce",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Spruce_5": {
+    "product": "Spruce",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Spruce_6": {
+    "product": "Spruce",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Spruce_7": {
+    "product": "Spruce",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Spruce_8": {
+    "product": "Spruce",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Spruce_9": {
+    "product": "Spruce",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Spruce_10": {
+    "product": "Spruce",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Spruce_11": {
+    "product": "Spruce",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Birch_1": {
+    "product": "Birch",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Birch_2": {
+    "product": "Birch",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Birch_3": {
+    "product": "Birch",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Birch_4": {
+    "product": "Birch",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Birch_5": {
+    "product": "Birch",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Birch_6": {
+    "product": "Birch",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Birch_7": {
+    "product": "Birch",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Birch_8": {
+    "product": "Birch",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Birch_9": {
+    "product": "Birch",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Birch_10": {
+    "product": "Birch",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Birch_11": {
+    "product": "Birch",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Dark Oak_1": {
+    "product": "Dark Oak",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Dark Oak_2": {
+    "product": "Dark Oak",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Dark Oak_3": {
+    "product": "Dark Oak",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Dark Oak_4": {
+    "product": "Dark Oak",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Dark Oak_5": {
+    "product": "Dark Oak",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Dark Oak_6": {
+    "product": "Dark Oak",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Dark Oak_7": {
+    "product": "Dark Oak",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Dark Oak_8": {
+    "product": "Dark Oak",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Dark Oak_9": {
+    "product": "Dark Oak",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Dark Oak_10": {
+    "product": "Dark Oak",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Dark Oak_11": {
+    "product": "Dark Oak",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Acacia_1": {
+    "product": "Acacia",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Acacia_2": {
+    "product": "Acacia",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Acacia_3": {
+    "product": "Acacia",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Acacia_4": {
+    "product": "Acacia",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Acacia_5": {
+    "product": "Acacia",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Acacia_6": {
+    "product": "Acacia",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Acacia_7": {
+    "product": "Acacia",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Acacia_8": {
+    "product": "Acacia",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Acacia_9": {
+    "product": "Acacia",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Acacia_10": {
+    "product": "Acacia",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Acacia_11": {
+    "product": "Acacia",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Jungle_1": {
+    "product": "Jungle",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 48,
+    "selfUpgrade_hour": 1.1
+  },
+  "Jungle_2": {
+    "product": "Jungle",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 48,
+    "selfUpgrade_hour": 2.1
+  },
+  "Jungle_3": {
+    "product": "Jungle",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 45,
+    "selfUpgrade_hour": 3.2
+  },
+  "Jungle_4": {
+    "product": "Jungle",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 45,
+    "selfUpgrade_hour": 8
+  },
+  "Jungle_5": {
+    "product": "Jungle",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 42,
+    "selfUpgrade_hour": 14.9
+  },
+  "Jungle_6": {
+    "product": "Jungle",
+    "tier": 6,
+    "tier_cost": "2,560",
+    "delay_second": 42,
+    "selfUpgrade_hour": 29.9
+  },
+  "Jungle_7": {
+    "product": "Jungle",
+    "tier": 7,
+    "tier_cost": "5,120",
+    "delay_second": 38,
+    "selfUpgrade_hour": 54
+  },
+  "Jungle_8": {
+    "product": "Jungle",
+    "tier": 8,
+    "tier_cost": "10,240",
+    "delay_second": 38,
+    "selfUpgrade_hour": 108.1
+  },
+  "Jungle_9": {
+    "product": "Jungle",
+    "tier": 9,
+    "tier_cost": "20,480",
+    "delay_second": 33,
+    "selfUpgrade_hour": 187.7
+  },
+  "Jungle_10": {
+    "product": "Jungle",
+    "tier": 10,
+    "tier_cost": "40,960",
+    "delay_second": 33,
+    "selfUpgrade_hour": 375.5
+  },
+  "Jungle_11": {
+    "product": "Jungle",
+    "tier": 11,
+    "tier_cost": "81,920",
+    "delay_second": 27,
+    "selfUpgrade_hour": ""
+  },
+  "Mithril_1": {
+    "product": "Mithril",
+    "tier": 1,
+    "tier_cost": 80,
+    "delay_second": 80,
+    "selfUpgrade_hour": 3.6
+  },
+  "Mithril_2": {
+    "product": "Mithril",
+    "tier": 2,
+    "tier_cost": 160,
+    "delay_second": 80,
+    "selfUpgrade_hour": 7.1
+  },
+  "Mithril_3": {
+    "product": "Mithril",
+    "tier": 3,
+    "tier_cost": 320,
+    "delay_second": 75,
+    "selfUpgrade_hour": 10.7
+  },
+  "Mithril_4": {
+    "product": "Mithril",
+    "tier": 4,
+    "tier_cost": 512,
+    "delay_second": 75,
+    "selfUpgrade_hour": 26.7
+  },
+  "Mithril_5": {
+    "product": "Mithril",
+    "tier": 5,
+    "tier_cost": "1,280",
+    "delay_second": 70,
+    "selfUpgrade_hour": 74.7
+  },
+  "Mithril_6": {
+    "product": "Mithril",
+    "tier": 6,
+    "tier_cost": "3,840",
+    "delay_second": 70,
+    "selfUpgrade_hour": 199.1
+  },
+  "Mithril_7": {
+    "product": "Mithril",
+    "tier": 7,
+    "tier_cost": "10,240",
+    "delay_second": 65,
+    "selfUpgrade_hour": 369.8
+  },
+  "Mithril_8": {
+    "product": "Mithril",
+    "tier": 8,
+    "tier_cost": "20,480",
+    "delay_second": 65,
+    "selfUpgrade_hour": 739.6
+  },
+  "Mithril_9": {
+    "product": "Mithril",
+    "tier": 9,
+    "tier_cost": "40,960",
+    "delay_second": 60,
+    "selfUpgrade_hour": "1,365.30"
+  },
+  "Mithril_10": {
+    "product": "Mithril",
+    "tier": 10,
+    "tier_cost": "81,920",
+    "delay_second": 60,
+    "selfUpgrade_hour": "3,413.30"
+  },
+  "Mithril_11": {
+    "product": "Mithril",
+    "tier": 11,
+    "tier_cost": "204,800",
+    "delay_second": 55,
+    "selfUpgrade_hour": ""
+  },
+  "": {
+    "product": "",
+    "tier": "",
+    "tier_cost": "",
+    "delay_second": "",
+    "selfUpgrade_hour": ""
+  },
+  "c": {
+    "product": "",
+    "tier": "",
+    "tier_cost": "",
+    "delay_second": "",
+    "selfUpgrade_hour": ""
+  }
+}
